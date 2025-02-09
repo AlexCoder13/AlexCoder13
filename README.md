@@ -7,8 +7,11 @@ I'm iOS-Developer from Ryazan, Russia. Learning SWIFT from 2024.
 - SWIFT
 - Xcode
 - UIKit
+- MVC
+- Auto Layout
 - GIT
 - iOS
+- Terminal
 
 # About me.
 
