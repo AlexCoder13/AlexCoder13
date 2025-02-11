@@ -9,6 +9,7 @@ I'm iOS-Developer from Ryazan, Russia. Learning SWIFT from 2024.
 - UIKit
 - MVC
 - Auto Layout
+- Lottie animations
 - GIT
 - iOS
 - Terminal
